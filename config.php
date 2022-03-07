@@ -18,11 +18,11 @@ $google_client->setClientId('30639041895-0l8at7s382j7gkv9ka4th2vp8tjuk2tl.apps.g
 $google_client->setClientSecret('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');
 
 //Set the OAuth 2.0 Redirect URI
-$google_client->setRedirectUri('http://localhost/BotonGG/indexV2.php');
+$google_client->setRedirectUri('http://localhost/Boton_Google_P/index.php');
 
 // to get the email and profile 
 $google_client->addScope('email');
 
 $google_client->addScope('profile');
 
-?> Close your php here
+?> 
