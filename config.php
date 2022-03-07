@@ -26,4 +26,4 @@ $google_client->addScope('email');
 //para obtener el perfil
 $google_client->addScope('profile');
 
-?> Close your php here
+?>
