@@ -12,6 +12,6 @@ $google_client->revokeToken();
 session_destroy();
 
 //redirecciona la pagina a index.php
-header('location:indexV2.php');
+header('location:index.php');
 
 ?>
